@@ -1,3 +1,4 @@
 date > date.txt
-git checkout master
+git checkout date
 git commit -am "BLPR-1892 $(date)"
+git push origin date
